@@ -1,4 +1,3 @@
-# GROUP 20
 # Lập trình ứng dụng Remote Desktop
 ## Mô tả
 Ứng dụng Remote Desktop cho phép:
